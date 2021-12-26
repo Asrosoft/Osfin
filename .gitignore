@@ -2,8 +2,12 @@
 composer.phar
 vendor/
 
+.svn/
+nbproject/
+.docker
+
 # Local configs
-config/autoload/*.local.php
+config.php
 
 # Binary gettext files
 *.mo
